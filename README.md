@@ -4,7 +4,7 @@
 👩🏻‍💻 I'm a growing front-end developer, intersted in better user experience and clean code. <br />
 🏃🏻‍♀️ I run every morning for my mental / physical health. <br />
 🐱 I'm a (huge) cat lover. <br />
-📚 I like learning languages. Currently I'm working on with advanced English and Spanish.
+📚 I like learning languages. Currently I'm learning advanced english and spanish.
 
 ## Things I code with
 
